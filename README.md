@@ -9,6 +9,7 @@ I'm passionate about cybersecurity and enjoy diving into complex challenges thro
 
 - **[Vulnerability Management Program Implementation](https://github.com/acecyber1229/Vulnerability-Management)** 
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[DISA STIGS Remediations](https://github.com/acecyber1229/STIGS)**
 
 ## Threat Hunting and Security Operations
 
