@@ -16,7 +16,6 @@ I'm passionate about cybersecurity and enjoy diving into complex challenges thro
 
 ## Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/acecyber1229/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Network Slowdown)](https://github.com/acecyber1229/Network-Slowdowns)**
 - **[Threat Hunting Scenario (Employee Data Exfiltration)](https://github.com/acecyber1229/Suspected-Data-Exfiltration)**
 
