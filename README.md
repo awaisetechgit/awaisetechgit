@@ -17,5 +17,5 @@ I'm passionate about cybersecurity and enjoy diving into complex challenges thro
 
 ## Connect With Me
 
-- [linkedin]: https://linkedin.com/in/awais-c
+- **[linkedin](https://linkedin.com/in/awais-c)**
 
