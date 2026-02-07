@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and enjoy diving into complex challenges thro
 
 ## Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/acecyber1229/Vulnerability-Management)** 
+- **[Vulnerability Management – Junior Analyst Case Study](https://github.com/acecyber1229/Vulnerability-Management)** 
 - **[DISA STIGS Remediations](https://github.com/acecyber1229/STIGS)**
 
 ## Threat Hunting and Security Operations
