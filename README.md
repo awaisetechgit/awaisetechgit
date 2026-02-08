@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/acecyber1229/">Awais C.</a>'s IT and Cybersecurity Project Portfolio 
 
-I share a little about myself below. To view more projects I have taken on in my personal home lab, visit my portfolio. (https://awaisetech.com 
+I share a little about myself below. To view more projects I have taken on in my personal home lab, visit my portfolio. https://awaisetech.com 
 
 ## My Portfolio (https://awaisetech.com)
 - **[Explore my projects and articles on my website](https://awaisetech.com)** 
