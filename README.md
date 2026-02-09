@@ -12,7 +12,6 @@ To view more projects I have taken on in my personal home lab, visit my portfoli
 ## Vulnerability Management Projects
 
 - **[Vulnerability Management – Junior Analyst Case Study](https://github.com/acecyber1229/Vulnerability-Management)** 
-- **[DISA STIGS Remediations](https://github.com/acecyber1229/STIGS)**
 
 <hr/>
 
